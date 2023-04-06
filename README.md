@@ -22,8 +22,8 @@ predicted_labels = get_string_labels(predicted_scores)
 
 
 for input, label in zip(inputs, predicted_labels):
-  print("Question: ", input)
-  print('Predicted tag/label: ', label.numpy())
+     print("Question: ", input)
+     print('Predicted tag/label: ', label.numpy())
   
   ```
   ```
