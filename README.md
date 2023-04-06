@@ -27,7 +27,7 @@ for input, label in zip(inputs, predicted_labels):
   
   ```
   ```
-**output**
+OUTPUT
 
 1/1 [==============================] - 0s 41ms/step
 Question:  How do I iterate over a Pandas column?
